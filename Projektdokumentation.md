@@ -2,13 +2,13 @@
 
 # Projekt-Dokumentation
 
-Hitz, Sacher und Müller
+Müller und Jeanneret
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-In diesem Projekt setzen wir eine SpieleAPI um, mit der man Scheren Stein Papier und russisches Roulette spielen kann.
+In diesem Projekt machen wir eine Applikation indem man Binärcode ineinander umrechnen können.
 
 ### 1.2 User Stories
 
