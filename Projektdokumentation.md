@@ -14,7 +14,7 @@ In diesem Projekt machen wir eine Applikation indem man Binärcode ineinander um
 
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                |
 | ---- | --------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Muss            | Funktional    | Als ein User möchte ich Schere, Stein oder Papier spielen können.                                                                                           |
+| 1    | Muss            | Funktional    | Als ein User möchte ich die Applikation starten könnem.                                                                                                     |
 | 2    | Muss            | Funktional    | Als ein User möchte ich Russian Roulette spielen können.                                                                                                    |
 | 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen kann.                                                  |
 | 4    | Muss            | Funktional    | Als ein User möchte ich, auswählen können, ob ich Schere,Stein,Papier oder Russian Roulette spielen möchte.                                                 |
