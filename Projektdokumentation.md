@@ -23,11 +23,10 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | 7    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander subtrahieren können mit der Applikation.                                                                  |
 | 8    | Muss            | Funktional    | Als ein User möchte ich BCD-Code verwenden können in der Applikation.                                                                                       |
 | 9    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code verwenden können in der Applikation.                                                                                     |
-| 10   | Kann            | Qualität      | Als ein User möchte ich EBCDIC-Code verwenden können in der Applikation.                                                                                    |
-| 11   | Muss            | Funktional    | Als ein User möchte ich die verschiedenen Binärcodes ineinander umrechnen können.                                                                           |
-| 12   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
-| 13   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird.                                                                                    |
-| 14   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation benutzerfreundlich ist.                                                                                       |
+| 10   | Muss            | Funktional    | Als ein User möchte ich die verschiedenen Binärcodes ineinander umrechnen können.                                                                           |
+| 11   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
+| 12   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird.                                                                                    |
+| 13   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation benutzerfreundlich ist.                                                                                       |
 
 
 ### 1.3 Testfälle
