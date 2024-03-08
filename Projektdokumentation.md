@@ -32,29 +32,11 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage                     | Eingabe                                             | Erwartete Ausgabe                          |
-| ---- | -------------------------------- | --------------------------------------------------- | ------------------------------------------ |
-| 1.1  | Programm ist gestartet           | Schere                                              | Schere                                     |
-| 1.2  | Programm ist gestartet           | Schere                                              | Stein                                      |
-| 1.3  | Programm ist gestartet           | Schere                                              | Papier                                     |
-| 1.4  | Programm ist gestartet           | Stein                                               | Stein                                      |
-| 1.5  | Programm ist gestartet           | Stein                                               | Schere                                     |
-| 1.6  | Programm ist gestartet           | Stein                                               | Papier                                     |
-| 1.7  | Programm ist gestartet           | Papier                                              | Papier                                     |
-| 1.8  | Programm ist gestartet           | Papier                                              | Stein                                      |
-| 1.9  | Programm ist gestartet           | Papier                                              | Schere                                     |
-| 2.1  | Programm ist gestartet           | Russian Roulette anklicken                          | GUI für russisches Roulette wird angezeigt |
-| 3.1  | Schere, Stein, Papier ausgewählt | Spiel starten anklicken                             | Spiel startet                              |
-| 4.1  | Programm ist gestartet           | Schere,Stein,Papier oder Russian Roulette anklicken | Spiel startet                              |
-| 5.1  | Spiel ausgewählt                 | 1 vs 1 anklicken                                    | Spiel startet                              |
-| 6.1  | Spiel ausgewählt                 | gegen Bot spielen anklicken                         | Spiel startet                              |
-| 7.1  | Russian Roulette ausgewählt      | Waffe auswählen                                     | Spiel startet                              |
-| 8.1  | Russian Roulette ausgewählt      | Pull Trigger Button drücken                         | kein Leben wird abgezogen                  |
-| 8.2  | Russian Roulette ausgewählt      | Pull Trigger Button drücken                         | Leben wird abgezogen + Schuss sound        |
-| 10.1 | Russian Roulette ausgewählt      | Wahl Item                                           | Item ausgewählt                            |
-| 11.1 | Programm ist gestartet           | klick auf Spielanleitung                            | Spielanleitung                             |
-| 12.1 | Programm ist gestartet           | Fehleingabe                                         | Ungültige Eingabe                          |
-| 13.1 | Programm ist gestartet           | -                                                   | benutzerfreundliches Frontend              |
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ---- | ------------ | ------- | ----------------- |
+| 1.1  | PC ist gestartet | Applikation öffnen | Applikation öffnet sich. |
+| 2.1  | Applikation ist am laufen | Im Menu auf Umrechnen drücken. | Umrechnermenü öffnet sich. |
+| 2.2  | Umrechnungsmenü ist offen | 
 
 ### 1.4 Diagramme
 
