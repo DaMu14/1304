@@ -19,14 +19,12 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | 3    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen in Binärcode umrechnen können mit der Applikation.                                                                    |
 | 4    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen mit Kommas in der Applikation in Binärcode umrechnen können.                                                          |
 | 5    | Muss            | Funktional    | Als ein User möchte ich sehen, welcher Binärcode für welche Dezimalzahl steht.                                                                              |
-| 6    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander addieren können mit der Applikation.                                                                      |
-| 7    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander subtrahieren können mit der Applikation.                                                                  |
-| 8    | Muss            | Funktional    | Als ein User möchte ich BCD-Code verwenden können in der Applikation.                                                                                       |
-| 9    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code verwenden können in der Applikation.                                                                                     |
-| 10   | Muss            | Funktional    | Als ein User möchte ich die verschiedenen Binärcodes ineinander umrechnen können.                                                                           |
-| 11   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
-| 12   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird.                                                                                    |
-| 13   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation benutzerfreundlich ist.                                                                                       |
+| 6    | Muss            | Funktional    | Als ein User möchte ich BCD-Code verwenden können in der Applikation.                                                                                       |
+| 7    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code verwenden können in der Applikation.                                                                                     |
+| 8   | Muss            | Funktional    | Als ein User möchte ich die verschiedenen Binärcodes ineinander umrechnen können.                                                                           |
+| 9   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
+| 10   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird.                                                                                    |
+| 11   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation benutzerfreundlich ist.                                                                                       |
 
 
 ### 1.3 Testfälle
@@ -36,7 +34,7 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | 1.1  | PC ist gestartet | Applikation öffnen | Applikation öffnet sich. |
 | 2.1  | Applikation ist am laufen | Im Menü auf Umrechnen drücken. | Umrechnermenü öffnet sich. |
 | 3.1  | Umrechnungsmenü ist offen | Im Menü bei Eingabe, Dezimalzahl auswählen und bei Ausgabe, BCD-Code auswählen.| Umrechner braucht Eingabedaten. |
-| 3.2  | Umrechnungsmenü ist offen | In der Eingabe wird die Dezimalzahl 1 eingegeben. | In der Ausgabe wird
+| 3.2  | Umrechnungsmenü ist offen | In der Eingabe wird die Dezimalzahl 1 eingegeben. | In der Ausgabe wird 0001 ausgegeben. |
 
 ### 1.4 Diagramme
 
