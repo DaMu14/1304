@@ -35,8 +35,9 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | PC ist gestartet | Applikation öffnen | Applikation öffnet sich. |
-| 2.1  | Applikation ist am laufen | Im Menu auf Umrechnen drücken. | Umrechnermenü öffnet sich. |
-| 2.2  | Umrechnungsmenü ist offen | 
+| 2.1  | Applikation ist am laufen | Im Menü auf Umrechnen drücken. | Umrechnermenü öffnet sich. |
+| 3.1  | Umrechnungsmenü ist offen | Im Menü bei Eingabe, Dezimalzahl auswählen und bei Ausgabe, BCD-Code auswählen.| Umrechner braucht Eingabedaten. |
+| 3.2  | Umrechnungsmenü ist offen | In der Eingabe wird die Dezimalzahl 1 eingegeben. | In der Ausgabe wird
 
 ### 1.4 Diagramme
 
