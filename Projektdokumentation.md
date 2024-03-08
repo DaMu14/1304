@@ -18,11 +18,11 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | 2    | Muss            | Funktional    | Als ein User möchte ich Binärcode in Dezimalzahlen umrechnen können mit der Applikation.                                                                    |
 | 3    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen in Binärcode umrechnen können mit der Applikation.                                                                    |
 | 4    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen mit Kommas in der Applikation in Binärcode umrechnen können.                                                          |
-| 5    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander rechnen können mit der Applikation.                                                                       |
-| 6    | Muss            | Funktional    | Als ein User möchte ich sehen welcher Binärcode für wessen Dezimalzahl dafürsteht.                                                                          |
-| 7    | Muss            | Funktional    | Als ein User möchte ich .                                                                               |
-| 8    | Muss            | Qualität      | Als ein User möchte ich, dass es nur ein Schuss in der Waffe hat, damit nur ein Spieler stirbt.                                                             |
-| 9    | Muss            | Funktional    | Als ein User möchte ich, dass es einen Soundeffekte gibt, wenn die Waffe einen Schuss abgibt im Russian Roulette, damit die Spielerfahrung intensiver wird. |
+| 5    | Muss            | Funktional    | Als ein User möchte ich sehen welcher Binärcode für wessen Dezimalzahl dafürsteht.                                                                          |
+| 6    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander addieren können mit der Applikation.                                                                      |
+| 7    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander subtraktieren können mit der Applikation.                                                                 |
+| 8    | Muss            | Funktional    | Als ein User möchte ich BCD-Code benuzten können in der Applikation.                                                                                        |
+| 9    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code benutzen in der Applikation.                                                                                             |
 | 10   | Muss            | Funktional    | Als ein User möchte ich, dass ich Items bekommen kann, damit ich mehr Spielvarianten habe.                                                                  |
 | 11   | Muss            | Funktional    | Als ein User möchte ich, dass es eine Anleitung gibt, damit ich sehen kann, wie ich Scheren, Stein, Papier oder Russian Roulette spielen kann.              |
 | 12   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
