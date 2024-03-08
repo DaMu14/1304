@@ -14,20 +14,21 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                |
 | ---- | --------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Muss            | Funktional    | Als ein User möchte ich die Applikation starten könnem.                                                                                                     |
+| 1    | Muss            | Funktional    | Als ein User möchte ich die Applikation starten können.                                                                                                     |
 | 2    | Muss            | Funktional    | Als ein User möchte ich Binärcode in Dezimalzahlen umrechnen können mit der Applikation.                                                                    |
 | 3    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen in Binärcode umrechnen können mit der Applikation.                                                                    |
 | 4    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen mit Kommas in der Applikation in Binärcode umrechnen können.                                                          |
-| 5    | Muss            | Funktional    | Als ein User möchte ich sehen welcher Binärcode für wessen Dezimalzahl dafürsteht.                                                                          |
+| 5    | Muss            | Funktional    | Als ein User möchte ich sehen, welcher Binärcode für welche Dezimalzahl steht.                                                                              |
 | 6    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander addieren können mit der Applikation.                                                                      |
-| 7    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander subtraktieren können mit der Applikation.                                                                 |
-| 8    | Muss            | Funktional    | Als ein User möchte ich BCD-Code benuzten können in der Applikation.                                                                                        |
-| 9    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code benutzen in der Applikation.                                                                                             |
-| 10   | kann            | Qualität      | Als ein User möchte ich EBCDIC-Code benutzen in der Applikation.                                                                                            |
-| 11   | Muss            | Funktional    | Als ein User möchte ich die verschiedene Binärcodes ineinader umrechnen können.                                                                             |
+| 7    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander subtrahieren können mit der Applikation.                                                                  |
+| 8    | Muss            | Funktional    | Als ein User möchte ich BCD-Code verwenden können in der Applikation.                                                                                       |
+| 9    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code verwenden können in der Applikation.                                                                                     |
+| 10   | Kann            | Qualität      | Als ein User möchte ich EBCDIC-Code verwenden können in der Applikation.                                                                                    |
+| 11   | Muss            | Funktional    | Als ein User möchte ich die verschiedenen Binärcodes ineinander umrechnen können.                                                                           |
 | 12   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
-| 13   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird .                                                                                |
+| 13   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird.                                                                                    |
 | 14   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation benutzerfreundlich ist.                                                                                       |
+
 
 ### 1.3 Testfälle
 
