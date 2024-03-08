@@ -10,22 +10,18 @@ Müller und Jeanneret
 
 In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinander umrechnen kann.
 
-### 1.2 User Stories
-
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                |
 | ---- | --------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Muss            | Funktional    | Als ein User möchte ich die Applikation starten können.                                                                                                     |
-| 2    | Muss            | Funktional    | Als ein User möchte ich Binärcode in Dezimalzahlen umrechnen können mit der Applikation.                                                                    |
-| 3    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen in Binärcode umrechnen können mit der Applikation.                                                                    |
-| 4    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen mit Kommas in der Applikation in Binärcode umrechnen können.                                                          |
-| 5    | Muss            | Funktional    | Als ein User möchte ich sehen, welcher Binärcode für welche Dezimalzahl steht.                                                                              |
-| 6    | Muss            | Funktional    | Als ein User möchte ich BCD-Code verwenden können in der Applikation.                                                                                       |
-| 7    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code verwenden können in der Applikation.                                                                                     |
-| 8    | Muss            | Funktional    | Als ein User möchte ich die verschiedenen Binärcodes ineinander umrechnen können.                                                                           |
-| 9    | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
-| 10   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird.                                                                                    |
-| 11   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation benutzerfreundlich ist.                                                                                       |
-
+| 1    | Muss            | Funktional    | Als Benutzer möchte ich die Applikation starten können, um sie für meine Zwecke verwenden zu können.                                                        |
+| 2    | Muss            | Funktional    | Als Benutzer möchte ich Binärcode in Dezimalzahlen umrechnen können, um verschiedene Codes miteinander vergleichen zu können.                               |
+| 3    | Muss            | Funktional    | Als Benutzer möchte ich Dezimalzahlen in Binärcode umrechnen können, um effizient mit Binärdaten arbeiten zu können.                                        |
+| 4    | Muss            | Funktional    | Als Benutzer möchte ich Dezimalzahlen mit Kommas in der Applikation in Binärcode umrechnen können, um präzise Daten verarbeiten zu können.                  |
+| 5    | Muss            | Funktional    | Als Benutzer möchte ich sehen, welcher Binärcode für welche Dezimalzahl steht, um eine klare Zuordnung der Werte zu haben.                                  |
+| 6    | Muss            | Funktional    | Als Benutzer möchte ich BCD-Code verwenden können in der Applikation, um spezielle binäre Darstellungen zu nutzen.                                          |
+| 7    | Muss            | Funktional    | Als Benutzer möchte ich ASCII-Code verwenden können in der Applikation, um andere binäre Daten umrechnen zu können.                                         |
+| 8    | Muss            | Funktional    | Als Benutzer möchte ich die verschiedenen Binärcodes ineinander umrechnen können, um flexibel zwischen den Darstellungen zu wechseln.                       |
+| 9    | Muss            | Qualität      | Als Benutzer möchte ich, dass Fehleingaben abgefangen werden, um sicherzustellen, dass die Umrechnungen korrekt erfolgen.                                   |
+| 10   | Muss            | Randbedingung | Als Benutzer möchte ich, dass die Applikation benutzerfreundlich ist, damit ich sie intuitiv und effizient nutzen kann.                                     |
 
 ### 1.3 Testfälle
 
