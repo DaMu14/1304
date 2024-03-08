@@ -23,11 +23,11 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | 7    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander subtraktieren können mit der Applikation.                                                                 |
 | 8    | Muss            | Funktional    | Als ein User möchte ich BCD-Code benuzten können in der Applikation.                                                                                        |
 | 9    | Muss            | Funktional    | Als ein User möchte ich ASCII-Code benutzen in der Applikation.                                                                                             |
-| 10   | Muss            | Funktional    | Als ein User möchte ich, dass ich Items bekommen kann, damit ich mehr Spielvarianten habe.                                                                  |
-| 11   | Muss            | Funktional    | Als ein User möchte ich, dass es eine Anleitung gibt, damit ich sehen kann, wie ich Scheren, Stein, Papier oder Russian Roulette spielen kann.              |
+| 10   | kann            | Qualität      | Als ein User möchte ich EBCDIC-Code benutzen in der Applikation.                                                                                            |
+| 11   | Muss            | Funktional    | Als ein User möchte ich die verschiedene Binärcodes ineinader umrechnen können.                                                                             |
 | 12   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
-| 13   | Muss            | Qualität      | Als ein User möchte ich, dass das Frontend benutzerfreundlich gestaltet ist.                                                                                |
-| 14   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation Benutzerfreundlich ist.                                                                                       |
+| 13   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation in Winforms geöffnet wird .                                                                                |
+| 14   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation benutzerfreundlich ist.                                                                                       |
 
 ### 1.3 Testfälle
 
