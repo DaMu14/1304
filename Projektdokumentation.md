@@ -32,7 +32,9 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | 3.1  | Umrechnungsmenü ist offen | Im Menü bei Eingabe, Dezimalzahl auswählen und bei Ausgabe, BCD-Code auswählen.| Umrechner braucht Eingabedaten. |
 | 3.2  | Umrechnungsmenü ist offen | In der Eingabe wird die Dezimalzahl 1 eingegeben. | In der Ausgabe wird 0001 ausgegeben. |
 | 4.1  | Umrechnungsmenü ist offen | Im Menü bei Eingabe, Dezimal auswählen und bei der Ausgabe, ASCII-Code auswählen. | Umrechner braucht Eingabedaten. |
-| 4.2  | Umrechnungsmenü ist offen | In der Eingabe, wird der Buchstabe A eingegeben. | In der Ausgabe steht 01000001. |
+| 4.2  | Umrechnungsmenü ist offen | In der Eingabe, wird die Zahl 1 eingegeben. | In der Ausgabe steht 00110001. |
+| 5.1  | Umrechnungsmenü ist offen | Im Menü bei Eingabe, ASCII-Code auswählen und bei Ausgabe, BCD-Code auswählen. |
+| 5.2  | Umrechnungsmenü ist offen | Im der| |
 
 
 ### 1.4 Diagramme
