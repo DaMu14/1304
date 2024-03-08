@@ -18,16 +18,16 @@ In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinand
 | 2    | Muss            | Funktional    | Als ein User möchte ich Binärcode in Dezimalzahlen umrechnen können mit der Applikation.                                                                    |
 | 3    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen in Binärcode umrechnen können mit der Applikation.                                                                    |
 | 4    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen mit Kommas in der Applikation in Binärcode umrechnen können.                                                          |
-| 5    | Muss            | Funktional    | Als ein User möchte ich .                             |
-| 6    | Muss            | Funktional    | Als ein User möchte ich in beiden Spielen gegen einen Bot spielen können, damit man es auch ohne Freunde spielen kann.                                      |
-| 7    | Muss            | Funktional    | Als ein User möchte ich, zwischen zwei verschiedenen Waffen auswählen können.                                                                               |
+| 5    | Muss            | Funktional    | Als ein User möchte ich den Binärcode miteinander rechnen können mit der Applikation.                                                                       |
+| 6    | Muss            | Funktional    | Als ein User möchte ich sehen welcher Binärcode für wessen Dezimalzahl dafürsteht.                                                                          |
+| 7    | Muss            | Funktional    | Als ein User möchte ich .                                                                               |
 | 8    | Muss            | Qualität      | Als ein User möchte ich, dass es nur ein Schuss in der Waffe hat, damit nur ein Spieler stirbt.                                                             |
 | 9    | Muss            | Funktional    | Als ein User möchte ich, dass es einen Soundeffekte gibt, wenn die Waffe einen Schuss abgibt im Russian Roulette, damit die Spielerfahrung intensiver wird. |
 | 10   | Muss            | Funktional    | Als ein User möchte ich, dass ich Items bekommen kann, damit ich mehr Spielvarianten habe.                                                                  |
 | 11   | Muss            | Funktional    | Als ein User möchte ich, dass es eine Anleitung gibt, damit ich sehen kann, wie ich Scheren, Stein, Papier oder Russian Roulette spielen kann.              |
 | 12   | Muss            | Qualität      | Als ein User möchte ich, dass Fehleingaben abgefangen werden.                                                                                               |
 | 13   | Muss            | Qualität      | Als ein User möchte ich, dass das Frontend benutzerfreundlich gestaltet ist.                                                                                |
-| 14   | Muss            | Randbedingung | Als ein User möchte ich, dass die Spiele über eine API laufen.                                                                                              |
+| 14   | Muss            | Randbedingung | Als ein User möchte ich, dass die Applikation Benutzerfreundlich ist.                                                                                       |
 
 ### 1.3 Testfälle
 
