@@ -8,17 +8,17 @@ Müller und Jeanneret
 
 ### 1.1 Ihr Projekt
 
-In diesem Projekt machen wir eine Applikation indem man Binärcode ineinander umrechnen können.
+In diesem Projekt entwickeln wir eine Anwendung, mit der man Binärcode ineinander umrechnen kann.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                |
 | ---- | --------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Muss            | Funktional    | Als ein User möchte ich die Applikation starten könnem.                                                                                                     |
-| 2    | Muss            | Funktional    | Als ein User möchte ich Russian Roulette spielen können.                                                                                                    |
-| 3    | Muss            | Funktional    | Als ein User möchte ich zwischen Schere, Stein und Papier wählen können, damit ich das Spiel spielen kann.                                                  |
-| 4    | Muss            | Funktional    | Als ein User möchte ich, auswählen können, ob ich Schere,Stein,Papier oder Russian Roulette spielen möchte.                                                 |
-| 5    | Muss            | Funktional    | Als ein User möchte ich im Russian Roulette gegen andere Personen spielen können, damit man es mit Freunden lokal spielen kann.                             |
+| 2    | Muss            | Funktional    | Als ein User möchte ich Binärcode in Dezimalzahlen umrechnen können mit der Applikation.                                                                    |
+| 3    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen in Binärcode umrechnen können mit der Applikation.                                                                    |
+| 4    | Muss            | Funktional    | Als ein User möchte ich Dezimalzahlen mit Kommas in der Applikation in Binärcode umrechnen können.                                                          |
+| 5    | Muss            | Funktional    | Als ein User möchte ich .                             |
 | 6    | Muss            | Funktional    | Als ein User möchte ich in beiden Spielen gegen einen Bot spielen können, damit man es auch ohne Freunde spielen kann.                                      |
 | 7    | Muss            | Funktional    | Als ein User möchte ich, zwischen zwei verschiedenen Waffen auswählen können.                                                                               |
 | 8    | Muss            | Qualität      | Als ein User möchte ich, dass es nur ein Schuss in der Waffe hat, damit nur ein Spieler stirbt.                                                             |
